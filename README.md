@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-cards-with-grids-zzN3pDWW8q](https://www.frontendmentor.io/solutions/responsive-cards-with-grids-zzN3pDWW8q)
 - Live Site URL: [https://tortaruga.github.io/four-card-grids-version/](https://tortaruga.github.io/four-card-grids-version/)
 
 ### Built with
